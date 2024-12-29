@@ -18,8 +18,10 @@ npm run dev
 
 Finalmente, se pueden testear los endpoints en [http://localhost:{PORT}/api](http://localhost:{PORT}/api).
 
-La documentación de Swagger se puede encontrar en /api/docs: [http://localhost:{PORT}/api/docs](http://localhost:{PORT}/api/docs)
+## Swagger
+
+La documentación de Swagger se puede encontrar en /api/docs (local): [http://localhost:{PORT}/api/docs](http://localhost:{PORT}/api/docs) o [https://tasks-be-4xs4.onrender.com/api/docs](https://tasks-be-4xs4.onrender.com/api/docs)
 
 ## App desplegada
 
-Si se quiere probar la app desplegada, se puede visitar [a](a)
+Si se quiere probar la app desplegada, se puede visitar [https://tasks-be-4xs4.onrender.com](https://tasks-be-4xs4.onrender.com)
