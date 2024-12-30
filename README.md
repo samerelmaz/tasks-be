@@ -33,3 +33,5 @@ npm run test
 ## App desplegada
 
 Si se quiere probar la app desplegada, se puede visitar [https://tasks-be-4xs4.onrender.com](https://tasks-be-4xs4.onrender.com)
+
+Nota: Ya que está desplegada en la versión gratis de Render, la api puede experimentar delays en la primera carga luego de tiempo de inactividad. Si la app tarda en responder al inicio, esperar hasta que responda, puede tardar hasta 1 minuto. Luego de eso las respuestas deben ser más rapidas.
